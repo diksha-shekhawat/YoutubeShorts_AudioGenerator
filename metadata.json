@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Shorts Narrator",
+  "description": "Convert script text into engaging, energetic YouTube Shorts narration with customizable styles and voices using Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
